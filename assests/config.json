@@ -1,0 +1,17 @@
+{
+  "payPalIntegration": {
+    "webisteLink": "http://stresscontrolbackendserver2-env2.eba-vv3qkn8m.eu-west-2.elasticbeanstalk.com/paypal",
+    "successLink": "http://stresscontrolbackendserver2-env2.eba-vv3qkn8m.eu-west-2.elasticbeanstalk.com/paypal/success",
+    "errorLink": "http://stresscontrolbackendserver2-env2.eba-vv3qkn8m.eu-west-2.elasticbeanstalk.com/paypal/payment-error-page"
+  },
+  "loginUrl": "http://stresscontrolbackendserver2-env2.eba-vv3qkn8m.eu-west-2.elasticbeanstalk.com/auth/login",
+  "signupUrl": "http://stresscontrolbackendserver2-env2.eba-vv3qkn8m.eu-west-2.elasticbeanstalk.com/auth/signup",
+  "verifyUrl": "http://stresscontrolbackendserver2-env2.eba-vv3qkn8m.eu-west-2.elasticbeanstalk.com/auth/verify",
+  "logoutUrl": "http://stresscontrolbackendserver2-env2.eba-vv3qkn8m.eu-west-2.elasticbeanstalk.com/auth/logout",
+  "forgotPasswordUrl": "http://stresscontrolbackendserver2-env2.eba-vv3qkn8m.eu-west-2.elasticbeanstalk.com/auth/forgot-password",
+  "setPasswordUrl": "http://stresscontrolbackendserver2-env2.eba-vv3qkn8m.eu-west-2.elasticbeanstalk.com/auth/set-new-password",
+
+  "tracksURL": "http://stresscontrolbackendserver2-env2.eba-vv3qkn8m.eu-west-2.elasticbeanstalk.com/aws/tracks",
+
+  "alias": "stress-control"
+}
